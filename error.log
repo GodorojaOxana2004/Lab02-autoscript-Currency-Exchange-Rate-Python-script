@@ -1,1 +1,1 @@
-2025-09-20 01:58:31,633 - ERROR - Request error: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/exchange_rate?base=USD&target=EUR&date=2025-01-01 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79d8d7877350>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-09-26 17:19:21,331 - ERROR - API_KEY not found in .env
